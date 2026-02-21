@@ -1,3 +1,5 @@
+# type: ignore[index]
+
 from typing import Dict, Any
 import pandas as pd
 import logging
